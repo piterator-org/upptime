@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Self-hosted",
+    "url": "piterator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "self-hosted",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Luogu Discussion Archive",
+    "url": "https://lglg.top/",
+    "icon": "https://icons.duckduckgo.com/ip3/lglg.top.ico",
+    "slug": "luogu-discussion-archive",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 678,
+    "timeDay": 678,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
+    "dailyMinutesDown": {}
+  }
+]
