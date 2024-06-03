@@ -24,19 +24,19 @@
     "url": "https://lglg.top/",
     "icon": "https://icons.duckduckgo.com/ip3/lglg.top.ico",
     "slug": "luogu-discussion-archive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 936,
-    "timeWeek": 835,
-    "timeMonth": 816,
-    "timeYear": 816,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 819,
+    "timeDay": 894,
+    "timeWeek": 837,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2024-06-03": 0
+      "2024-06-03": 7
     }
   }
 ]
